@@ -1,1 +1,1 @@
-Project file
+This file contain information about the current project directory

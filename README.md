@@ -1,1 +1,1 @@
-Project file
+This file descripe the structure of the git repo
