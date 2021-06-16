@@ -1,0 +1,1 @@
+This directories contain all the files needed for shell redirection
