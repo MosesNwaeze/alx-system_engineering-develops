@@ -1,4 +1,4 @@
 #!/bin/bash
-$message="Hello, world";
-echo $message;
+echo "Hello, world"
+
 
